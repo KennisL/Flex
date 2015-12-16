@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DockSite" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAACAILAAAHRBCgSQBBCQAAZAAJFAAAAAAbAACE=</HashCode>
+      <FileName>QtDockSite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DockWidgetImpl" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAgAAAAAAAACAAAAAAAQAAACEAAAEwAQAEAAg=</HashCode>
+      <FileName>QtDockWidget.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DockSiteImpl" Collapsed="true">
+    <Position X="0.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAQAAAgQAIAAAAAAQABAAAAAAs4EAAEAgA=</HashCode>
+      <FileName>QtDockSite.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DockWidget" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAoIADEAJCAAABRBAAQQLAAIAAABAJEAAcAAgAAAAE=</HashCode>
+      <FileName>QtDockWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DockSide" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GCgIACAAAIDIIAECBACAAAAAgAAQAAAAAAQAAAhEAgE=</HashCode>
+      <FileName>QtDockSide.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlexWidget" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CMAqIiDAAJCAAAIABQAQAJgAgAABJiIEgMQCQAARgAE=</HashCode>
+      <FileName>QtFlexWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlexManager" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBEEAHgBgYCAAAIFADAAGAAkAEBQQASAAYgAAFIBgEM=</HashCode>
+      <FileName>QtFlexManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlexWidgetImpl" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgCiACICAAAAAAAAgAgRAAQAJAAAASBEoJAAEgAA=</HashCode>
+      <FileName>QtFlexWidget.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlexManagerImpl" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAIAACCAgAABEAAAAAAQBAIgAQAAAABAAAAA=</HashCode>
+      <FileName>QtFlexManager.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
